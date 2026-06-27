@@ -2,8 +2,6 @@
 
 A beautiful, premium mobile-first personal finance tracker with a warm paper-canvas aesthetic. Built with vanilla HTML, CSS, and JavaScript.
 
-👉 **Live Demo:** [https://hilmangukiya18.github.io/hisaabkitaab/](https://hilmangukiya18.github.io/hisaabkitaab/)
-
 ---
 
 ## ✨ Features
